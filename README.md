@@ -3,6 +3,8 @@
 ## General
 Inserts lightboxes.
 
+**This project will no longer be maintained.**
+
 ## Installation
 Please install this extension via Pagekit's marketplace
 
